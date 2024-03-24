@@ -1,0 +1,17 @@
+# adapated from microchip guidance - 
+#  https://developerhelp.microchip.com/xwiki/bin/view/software-tools/x/version-control/working-with-version-control/
+
+# Project Directory
+
+/.generated_files/
+/build/
+/dist/
+/debug/
+
+*mc3.bak*
+
+# nbproject directory
+
+/nbproject/Makefile-*
+/nbproject/Package-*
+/nbproject/private/
